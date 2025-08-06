@@ -29,27 +29,6 @@ for learning full-stack development with Django, HTML, CSS, and JSON storage.
 
 ---
 
-
-
-## 📁 Project Structure
-
-DjangoProject/
-│
-└── bookstore/
-├── manage.py
-├── db.sqlite3
-├── orders.json
-├── store/
-│ ├── views.py
-│ ├── urls.py
-│ ├── templates/
-│ └── static/
-└── bookstore/
-├── settings.py
-├── urls.py
-
----
-
 ## ⚙️ How to Run Locally
 
 1. **Clone the repo**
